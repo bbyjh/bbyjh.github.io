@@ -1,13 +1,26 @@
+<!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>成长 | Gridea</title>
-<link rel="shortcut icon" href="https://bbyjh.github.io/favicon.ico?v=1626940785415">
-<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
+    <meta charset="utf-8" >
+
+<title>成长 | easyf12&#39;s blog</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://bbyjh.github.io/favicon.ico?v=1626942442441">
 <link rel="stylesheet" href="https://bbyjh.github.io/styles/main.css">
-<link rel="alternate" type="application/atom+xml" title="成长 | Gridea - Atom Feed" href="https://bbyjh.github.io/atom.xml">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
+
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
+
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 
 
 
@@ -16,86 +29,93 @@
 一份对老师的问候
 那天早上，我来到了学校。在走廊中，我遇到了老师，看着她那副面孔——那是多么熟悉，我突然有些望而却步：我之前见人从来不打..." />
     <meta name="keywords" content="成长" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
-    <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
   </head>
   <body>
-    <div class="main">
-      <div class="main-content">
-        <div class="site-header">
-  <a href="https://bbyjh.github.io">
-  <img class="avatar" src="https://bbyjh.github.io/images/avatar.png?v=1626940785415" alt="">
-  </a>
-  <h1 class="site-title">
-    Gridea
-  </h1>
-  <p class="site-description">
-    温故而知新
-  </p>
-  <div class="menu-container">
-    
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://bbyjh.github.io">
+        <img src="https://bbyjh.github.io/images/avatar.png?v=1626942442441" class="site-logo">
+        <h1 class="site-title">easyf12&#39;s blog</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
       
-        <a href="/" class="menu">
-          首页
-        </a>
+        
+          <a href="/" class="site-nav">
+            首页
+          </a>
+        
       
-    
+        
+          <a href="/archives" class="site-nav">
+            归档
+          </a>
+        
       
-        <a href="/archives" class="menu">
-          归档
-        </a>
+        
+          <a href="/tags" class="site-nav">
+            标签
+          </a>
+        
       
-    
+        
+          <a href="/post/about" class="site-nav">
+            关于
+          </a>
+        
       
-        <a href="/tags" class="menu">
-          标签
-        </a>
-      
-    
-      
-        <a href="/post/about" class="menu">
-          关于
-        </a>
-      
-    
+    </div>
   </div>
-  <div class="social-container">
-    
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
       
-    
+        
+          <a class="social-link" href="https://github.com/bbyjh" target="_blank">
+            <i class="fab fa-github"></i>
+          </a>
+        
       
-    
+        
       
-    
+        
+          <a class="social-link" href="https://weibo.com/u/7452561379" target="_blank">
+            <i class="fab fa-weibo"></i>
+          </a>
+        
       
-    
+        
+          <a class="social-link" href="https://www.zhihu.com/people/easyf12" target="_blank">
+            <i class="fab fa-zhihu"></i>
+          </a>
+        
       
-    
+        
+      
+    </div>
+    <div class="site-description">
+      竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://bbyjh.github.io/atom.xml" target="_blank">RSS</a>
+    </div>
   </div>
 </div>
 
-        <div class="post-detail">
-          <article class="post">
-            <h2 class="post-title">
-              成长
-            </h2>
-            <div class="post-info">
-              <span>
-                2021-02-02
-              </span>
-              <span>
-                3 min read
-              </span>
-              
-                <a href="https://bbyjh.github.io/tag/9Og9HXeWfS/" class="post-tag">
-                  # 成长
-                </a>
-              
-            </div>
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">成长</h2>
+            <div class="post-date">2021-02-02</div>
             
-            <div class="post-content-wrapper">
-              <div class="post-content">
-                <p>人生，就是为了成长，让自己更强大。我一直在努力地成长。</p>
+            <div class="post-content" v-pre>
+              <p>人生，就是为了成长，让自己更强大。我一直在努力地成长。</p>
 <p>一切都发生在一个重阳节——那天，我成长了许多。</p>
 <p><strong>一份对老师的问候</strong></p>
 <p>那天早上，我来到了学校。在走廊中，我遇到了老师，看着她那副面孔——那是多么熟悉，我突然有些望而却步：我之前见人从来不打招呼的。“老师马上就要走过去了……我还能对她置之不理吗……不行，这样做不对，最好还是打一声招呼……对，不管结果怎样，就这么做！”于是走到她的面前，犹豫了一下，最终还是说出：“老师好！您今天好吗？”老师面带微笑，温和地对我说：“早上好，姚景豪！我很好，谢谢！”</p>
@@ -108,102 +128,87 @@
 <p>这简短的祝福，我终于克服了它！原来祝福别人并没有这么难！我想，我成长了，因为我学会了祝福。</p>
 <p>短短的一天，我学会了问候、帮助和祝福。而成长可不止这一天，它如一条线贯穿我的一生，无时无刻陪伴在我身边。我坚信，只要我勇于克服困难，努力成长，定能披荆斩棘，走向美好的未来！</p>
 
-              </div>
-              <div class="toc-container">
+            </div>
+            
+              <div class="tag-container">
+                
+                  <a href="https://bbyjh.github.io/tag/9Og9HXeWfS/" class="tag">
+                    成长
+                  </a>
                 
               </div>
-            </div>
-          </article>
-        </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://bbyjh.github.io/post/爱，就在我身边/">
+                  <h3 class="post-title">
+                    爱，就在我身边
+                  </h3>
+                </a>
+              </div>
+            
 
-        
-          <div class="next-post">
-            <div class="next">下一篇</div>
-            <a href="https://bbyjh.github.io/post/爱，就在我身边/">
-              <h3 class="post-title">
-                爱，就在我身边
-              </h3>
-            </a>
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
           </div>
-        
 
-        
-          
-            <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
-
-<div id="gitalk-container"></div>
-
-<script>
-
-  var gitalk = new Gitalk({
-    clientID: '9ec9761d66a488e69276',
-    clientSecret: '4f4e2a268296cb0768d6e8658a649e7b96a4a7ca',
-    repo: 'gridea-comment',
-    owner: 'bbyjh',
-    admin: ['bbyjh'],
-    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
-    distractionFreeMode: false  // Facebook-like distraction free mode
-  })
-
-  gitalk.render('gitalk-container')
-
-</script>
-
-          
-
-          
-        
-
-        <div class="site-footer">
-  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
-  <a class="rss" href="https://bbyjh.github.io/atom.xml" target="_blank">
-    <i class="ri-rss-line"></i> RSS
-  </a>
-</div>
-
+        </div>
       </div>
     </div>
 
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+  <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+  <script>
+    hljs.initHighlightingOnLoad()
+  </script>
+
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
     <script>
-      hljs.initHighlightingOnLoad()
 
-      let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
+      var gitalk = new Gitalk({
+        clientID: '9ec9761d66a488e69276',
+        clientSecret: '4f4e2a268296cb0768d6e8658a649e7b96a4a7ca',
+        repo: 'gridea-comment',
+        owner: 'bbyjh',
+        admin: ['bbyjh'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
 
-      // This should probably be throttled.
-      // Especially because it triggers during smooth scrolling.
-      // https://lodash.com/docs/4.17.10#throttle
-      // You could do like...
-      // window.addEventListener("scroll", () => {
-      //    _.throttle(doThatStuff, 100);
-      // });
-      // Only not doing it here to keep this Pen dependency-free.
-
-      window.addEventListener("scroll", event => {
-        let fromTop = window.scrollY;
-
-        mainNavLinks.forEach((link, index) => {
-          let section = document.getElementById(decodeURI(link.hash).substring(1));
-          let nextSection = null
-          if (mainNavLinks[index + 1]) {
-            nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
-          }
-          if (section.offsetTop <= fromTop) {
-            if (nextSection) {
-              if (nextSection.offsetTop > fromTop) {
-                link.classList.add("current");
-              } else {
-                link.classList.remove("current");    
-              }
-            } else {
-              link.classList.add("current");
-            }
-          } else {
-            link.classList.remove("current");
-          }
-        });
-      });
+      gitalk.render('gitalk-container')
 
     </script>
+  
+
+  
+
+
+
+
   </body>
 </html>

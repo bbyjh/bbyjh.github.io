@@ -1,201 +1,206 @@
+<!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>有你，真好 | Gridea</title>
-<link rel="shortcut icon" href="https://bbyjh.github.io/favicon.ico?v=1626940785415">
-<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
+    <meta charset="utf-8" >
+
+<title>有你，真好 | easyf12&#39;s blog</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://bbyjh.github.io/favicon.ico?v=1626942442441">
 <link rel="stylesheet" href="https://bbyjh.github.io/styles/main.css">
-<link rel="alternate" type="application/atom+xml" title="有你，真好 | Gridea - Atom Feed" href="https://bbyjh.github.io/atom.xml">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
+
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
+
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 
 
 
     <meta name="description" content="那是一次不同寻常的邂逅。那天，天气如此明朗，空气也格外清新。从那以后，我的心中就充满了阳光，就像那天的阳光一样灿烂，那样美好。
 一次写数学小论文，我十分懊恼，好不容易费了半天时间挤牙膏似的挤出了一篇只有四百字的文章，老师却看了一眼就打回来了..." />
     <meta name="keywords" content="友爱" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
-    <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
   </head>
   <body>
-    <div class="main">
-      <div class="main-content">
-        <div class="site-header">
-  <a href="https://bbyjh.github.io">
-  <img class="avatar" src="https://bbyjh.github.io/images/avatar.png?v=1626940785415" alt="">
-  </a>
-  <h1 class="site-title">
-    Gridea
-  </h1>
-  <p class="site-description">
-    温故而知新
-  </p>
-  <div class="menu-container">
-    
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://bbyjh.github.io">
+        <img src="https://bbyjh.github.io/images/avatar.png?v=1626942442441" class="site-logo">
+        <h1 class="site-title">easyf12&#39;s blog</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
       
-        <a href="/" class="menu">
-          首页
-        </a>
+        
+          <a href="/" class="site-nav">
+            首页
+          </a>
+        
       
-    
+        
+          <a href="/archives" class="site-nav">
+            归档
+          </a>
+        
       
-        <a href="/archives" class="menu">
-          归档
-        </a>
+        
+          <a href="/tags" class="site-nav">
+            标签
+          </a>
+        
       
-    
+        
+          <a href="/post/about" class="site-nav">
+            关于
+          </a>
+        
       
-        <a href="/tags" class="menu">
-          标签
-        </a>
-      
-    
-      
-        <a href="/post/about" class="menu">
-          关于
-        </a>
-      
-    
+    </div>
   </div>
-  <div class="social-container">
-    
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
       
-    
+        
+          <a class="social-link" href="https://github.com/bbyjh" target="_blank">
+            <i class="fab fa-github"></i>
+          </a>
+        
       
-    
+        
       
-    
+        
+          <a class="social-link" href="https://weibo.com/u/7452561379" target="_blank">
+            <i class="fab fa-weibo"></i>
+          </a>
+        
       
-    
+        
+          <a class="social-link" href="https://www.zhihu.com/people/easyf12" target="_blank">
+            <i class="fab fa-zhihu"></i>
+          </a>
+        
       
-    
+        
+      
+    </div>
+    <div class="site-description">
+      竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://bbyjh.github.io/atom.xml" target="_blank">RSS</a>
+    </div>
   </div>
 </div>
 
-        <div class="post-detail">
-          <article class="post">
-            <h2 class="post-title">
-              有你，真好
-            </h2>
-            <div class="post-info">
-              <span>
-                2021-02-04
-              </span>
-              <span>
-                2 min read
-              </span>
-              
-                <a href="https://bbyjh.github.io/tag/ojVXg5g5qX/" class="post-tag">
-                  # 友爱
-                </a>
-              
-            </div>
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">有你，真好</h2>
+            <div class="post-date">2021-02-04</div>
             
-            <div class="post-content-wrapper">
-              <div class="post-content">
-                <p>那是一次不同寻常的邂逅。那天，天气如此明朗，空气也格外清新。从那以后，我的心中就充满了阳光，就像那天的阳光一样灿烂，那样美好。</p>
+            <div class="post-content" v-pre>
+              <p>那是一次不同寻常的邂逅。那天，天气如此明朗，空气也格外清新。从那以后，我的心中就充满了阳光，就像那天的阳光一样灿烂，那样美好。</p>
 <p>一次写数学小论文，我十分懊恼，好不容易费了半天时间挤牙膏似的挤出了一篇只有四百字的文章，老师却看了一眼就打回来了。那时我近乎绝望，北风呼呼地吹着，我的心也被冻结了一样，泣不成声。就在这时，你悄悄地走了过来，用一个充满力量的眼神看了我一眼，接着又悄悄地走了。但是，你知道吗？那个眼神，不知道给予了我多少鼓励，它使我振作了起来，提笔半小时就完成了一篇文章。这篇文章被评为了优秀。</p>
 <p>而你对我的鼓励，还不止于此……</p>
 <p>又是学校举行了运动会的日子，我报名了200米跑步项目。紧张激烈的比赛开始了，我大步走向跑道，心里又激动又紧张，我两腿一前一后，身子微微前俯，像运动员一样摆好架势。“预备……开始！”我像炮弹似的冲了出去，首先取得决定性的优势，健步如飞，神采飞扬；而对手也不甘示弱，疾驰如箭，快似流星。比赛已经进入了白热化状态，我们两人跑得不分上下，也都不甘示弱。此时，你并没有说什么，只是微笑了一下。但是，你知道吗？你的微笑像我人生道路中的一朵花，绽放得无比艳丽。带着你的微笑，带着我的决心，我跑得更快了，最终得到了胜利。那一刻，你依然没有说什么，又是一个微笑……</p>
 <p>我的朋友，谢谢你，是你的鼓励照进了我冰冷的心房，是你的安慰让我充满了力量。你为我所做的一切，陪伴我度过了一切痛苦的时光。</p>
 <p>啊，我的朋友，有你，真好！</p>
 
-              </div>
-              <div class="toc-container">
+            </div>
+            
+              <div class="tag-container">
+                
+                  <a href="https://bbyjh.github.io/tag/ojVXg5g5qX/" class="tag">
+                    友爱
+                  </a>
                 
               </div>
-            </div>
-          </article>
-        </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://bbyjh.github.io/post/小区楼道管理倡议书/">
+                  <h3 class="post-title">
+                    小区楼道管理倡议书
+                  </h3>
+                </a>
+              </div>
+            
 
-        
-          <div class="next-post">
-            <div class="next">下一篇</div>
-            <a href="https://bbyjh.github.io/post/小区楼道管理倡议书/">
-              <h3 class="post-title">
-                小区楼道管理倡议书
-              </h3>
-            </a>
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
           </div>
-        
 
-        
-          
-            <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
-
-<div id="gitalk-container"></div>
-
-<script>
-
-  var gitalk = new Gitalk({
-    clientID: '9ec9761d66a488e69276',
-    clientSecret: '4f4e2a268296cb0768d6e8658a649e7b96a4a7ca',
-    repo: 'gridea-comment',
-    owner: 'bbyjh',
-    admin: ['bbyjh'],
-    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
-    distractionFreeMode: false  // Facebook-like distraction free mode
-  })
-
-  gitalk.render('gitalk-container')
-
-</script>
-
-          
-
-          
-        
-
-        <div class="site-footer">
-  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
-  <a class="rss" href="https://bbyjh.github.io/atom.xml" target="_blank">
-    <i class="ri-rss-line"></i> RSS
-  </a>
-</div>
-
+        </div>
       </div>
     </div>
 
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+  <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+  <script>
+    hljs.initHighlightingOnLoad()
+  </script>
+
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
     <script>
-      hljs.initHighlightingOnLoad()
 
-      let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
+      var gitalk = new Gitalk({
+        clientID: '9ec9761d66a488e69276',
+        clientSecret: '4f4e2a268296cb0768d6e8658a649e7b96a4a7ca',
+        repo: 'gridea-comment',
+        owner: 'bbyjh',
+        admin: ['bbyjh'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
 
-      // This should probably be throttled.
-      // Especially because it triggers during smooth scrolling.
-      // https://lodash.com/docs/4.17.10#throttle
-      // You could do like...
-      // window.addEventListener("scroll", () => {
-      //    _.throttle(doThatStuff, 100);
-      // });
-      // Only not doing it here to keep this Pen dependency-free.
-
-      window.addEventListener("scroll", event => {
-        let fromTop = window.scrollY;
-
-        mainNavLinks.forEach((link, index) => {
-          let section = document.getElementById(decodeURI(link.hash).substring(1));
-          let nextSection = null
-          if (mainNavLinks[index + 1]) {
-            nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
-          }
-          if (section.offsetTop <= fromTop) {
-            if (nextSection) {
-              if (nextSection.offsetTop > fromTop) {
-                link.classList.add("current");
-              } else {
-                link.classList.remove("current");    
-              }
-            } else {
-              link.classList.add("current");
-            }
-          } else {
-            link.classList.remove("current");
-          }
-        });
-      });
+      gitalk.render('gitalk-container')
 
     </script>
+  
+
+  
+
+
+
+
   </body>
 </html>
