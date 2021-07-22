@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bbyjh.github.io</id>
     <title>Gridea</title>
-    <updated>2021-07-22T07:45:03.352Z</updated>
+    <updated>2021-07-22T08:00:11.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bbyjh.github.io"/>
     <link rel="self" href="https://bbyjh.github.io/atom.xml"/>
@@ -11,35 +11,255 @@
     <icon>https://bbyjh.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://bbyjh.github.io/post/hello-gridea/</id>
-        <link href="https://bbyjh.github.io/post/hello-gridea/">
+        <title type="html"><![CDATA[老师，再见！老师，你好！]]></title>
+        <id>https://bbyjh.github.io/post/老师，再见！老师，你好！/</id>
+        <link href="https://bbyjh.github.io/post/老师，再见！老师，你好！/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <updated>2021-06-01T03:48:19.000Z</updated>
+        <content type="html"><![CDATA[<p>六年前，</p>
+<p>花草的芬芳，吹进那透明的窗。</p>
+<p>我蹦蹦跳跳地来到座位上，</p>
+<p>没有丝毫忧伤。</p>
+<p>您走进教室，</p>
+<p>“上课！起立！”</p>
+<p>一声清脆又明亮。</p>
+<p>“老师，您好！”</p>
+<p>一声富有生机与力量。</p>
+<p>您讲课时，</p>
+<p>眼睛里闪烁着光芒，</p>
+<p>仿佛能穿透每一位同学的心，</p>
+<p>看透我们的念想。</p>
+<p>下课了，</p>
+<p>我们与您一起玩耍，</p>
+<p>奔跑着，</p>
+<p>在那青青的草地上。</p>
+<p>在这里，</p>
+<p>我们万分开心，</p>
+<p>拥抱着老师，</p>
+<p>眼中闪烁着点点光芒，</p>
+<p>充满了希望。</p>
+<p>六年后，</p>
+<p>花草的芳香，吹进那泛黄褪色的窗。</p>
+<p>我沉重地走到座位上，</p>
+<p>心中满是惆怅。</p>
+<p>您再次走进教室，</p>
+<p>“上课！起立！”</p>
+<p>声音没有了清脆与明亮。</p>
+<p>“老师，您好！”</p>
+<p>声音没有了生机与力量。</p>
+<p>“这节课……”您哽咽着，</p>
+<p>“我们不上课，尽情地玩！”</p>
+<p>这本是高兴的事情，</p>
+<p>但大家却愁容满面。</p>
+<p>于是，</p>
+<p>我们又一次与您一起玩耍，</p>
+<p>奔跑着，</p>
+<p>在那青青的草地上。</p>
+<p>在这里，</p>
+<p>我们仿佛不再悲伤了，</p>
+<p>拥抱着老师，</p>
+<p>回想起那之前的一切，</p>
+<p>心中又充满了希望。</p>
+<p>感谢您，</p>
+<p>我们的宋老师。</p>
+<p>您教我们的知识和人生道理，</p>
+<p>我们一定永生难忘。</p>
+<p>我真想回到与您邂逅的那个早上，</p>
+<p>一切都是那么美好。</p>
+<p>在此，</p>
+<p>我希望我们能像相见时那样分别：</p>
+<p>“老师，再见！”</p>
+<p>我希望我们能在分别后经常相见：</p>
+<p>“老师，您好！”</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[梦想]]></title>
+        <id>https://bbyjh.github.io/post/梦想/</id>
+        <link href="https://bbyjh.github.io/post/梦想/">
+        </link>
+        <updated>2021-03-16T13:02:23.000Z</updated>
+        <content type="html"><![CDATA[<p>梦想，</p>
+<p>像一缕阳光，</p>
+<p>照亮我的心房。</p>
+<p>梦想，</p>
+<p>像一张船帆，</p>
+<p>载我扬帆起航。</p>
+<p>梦想，</p>
+<p>像一副翅膀，</p>
+<p>带我尽情飞翔。</p>
+<p>梦想，</p>
+<p>它永远活在心中，</p>
+<p>是心之所向，</p>
+<p>诗和远方！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Footprint]]></title>
+        <id>https://bbyjh.github.io/post/Footprint/</id>
+        <link href="https://bbyjh.github.io/post/Footprint/">
+        </link>
+        <updated>2021-03-01T11:00:58.000Z</updated>
+        <content type="html"><![CDATA[<p>It was the heaviest snow this year. I went out when it was dark outside. Snow fell on my hands, and then it became water. There were many footprints on the ground. The whole world was all quiet.</p>
+<p>Suddenly, the sun rose up. Everything began to wake up. It became brighter and brighter now. The snow was melting. The footprints faded.</p>
+<p>I wanted to leave some footprints on the ground! I wanted everything in the world, such as flowers, grasses, to hear my voice!</p>
+<p>Let the world hear my voice…</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P2241 统计方形（数据加强版）]]></title>
+        <id>https://bbyjh.github.io/post/P2241统计方形（数据加强版）/</id>
+        <link href="https://bbyjh.github.io/post/P2241统计方形（数据加强版）/">
+        </link>
+        <updated>2021-02-08T05:11:55.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://www.luogu.com.cn/problem/P2241">题目网址</a></p>
+<p>这题洛谷上归到暴力枚举了，但是我认为不用暴力枚举，用数学方法就可以解决。</p>
+<p>首先，我们知道，在任意一个长方形中，求小长方形（包括小正方形）的数量的公式是：</p>
+<figure data-type="image" tabindex="1"><img src="https://bbyjh.github.io/post-images/1626940617059.png" alt="" loading="lazy"></figure>
+<p>但是，这题让我们求的并不是包括小正方形的小长方形数，但是可以先把包括小正方形的小长方形数求出来，这个方法是我自己推出来的。可以举例说明。下面这个的正方形，它里面的小正方形的个数怎么求呢？</p>
+<figure data-type="image" tabindex="2"><img src="https://bbyjh.github.io/post-images/1626940627090.png" alt="" loading="lazy"></figure>
+<p>这我相信难不倒大家，边长为1的有16个，边长为2的有9个，边长为3的有4个，边长为4的有1个。就是：16+9+4+1=30（个）</p>
+<p>那，大家看着四个数，心中可能有一些联想：16=4×4,9=3×3，4=2×2,1=1×1。这样就把它们拆开了。这样我们就可以总结出求正方形中小正方形个数的公式了：</p>
+<figure data-type="image" tabindex="3"><img src="https://bbyjh.github.io/post-images/1626940634875.png" alt="" loading="lazy"></figure>
+<p>那么，这个长方形中有多少个小正方形呢？</p>
+<figure data-type="image" tabindex="4"><img src="https://bbyjh.github.io/post-images/1626940641361.png" alt="" loading="lazy"></figure>
+<p>大家可能就没招了。但是，把这个长方形照葫芦画瓢，两个边长换成长和宽，可不可以呢？</p>
+<p>5×4+4×3+3×2+2×1=40</p>
+<p>按照原来的方法数一数，我们可以发现，这样是可以的。但是，要注意，这里要先将两个数做比较，5&gt;4，所以就看4什么时候减到1，只要4减到1，就可以不加了。</p>
+<p>到这里，数学推导就结束了，下面奉上代码：</p>
+<pre><code class="language-c++">#include &lt;bits/stdc++.h&gt;
+using namespace std;
+int main() {
+    long long n,m,s1=0,s2=0,s=0,t=0;
+    cin&gt;&gt;n&gt;&gt;m;
+    for(int i=1;i&lt;=n;i++){
+        s1=s1+i;
+    }
+    for(int i=1;i&lt;=m;i++){
+        s2=s2+i;
+    }
+    s=s1*s2;
+    if(n&gt;=m){
+        for(int i=m;i&gt;=1;i--) {
+            t = t + i * n;
+            n--;
+        }
+    }
+    if(n&lt;m){
+        for(int i=n;i&gt;=1;i--) {
+            t = t + i * m;
+            m--;
+        }
+    }
+    cout&lt;&lt;t&lt;&lt;&quot; &quot;&lt;&lt;s-t;
+    return 0;
+}
+</code></pre>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最难忘的回忆]]></title>
+        <id>https://bbyjh.github.io/post/最难忘的回忆/</id>
+        <link href="https://bbyjh.github.io/post/最难忘的回忆/">
+        </link>
+        <updated>2021-02-04T12:58:44.000Z</updated>
+        <content type="html"><![CDATA[<p>他是《六经》的编著者，他是儒家思想的代表人，他是中国历史上第一位开设私塾的老师，他还提出了“因材施教”的教育方针……</p>
+<p>他就是——孔子。一位真正的、活得十分精彩的圣人。<br>
+今天，我来到了孔子的故里——山东曲阜。曲阜是一个十分古老的地方，在春秋时期就以国的形式存在，它就是礼仪之邦——鲁国。孔子的故里共分为三个部分：孔庙、孔府和孔林。由于时间原因，我们只参观了孔庙和孔府。<br>
+刚到孔庙，那雄壮的四个大字立刻吸引了我的注意力——万仞宫墙。我的心中浮现出了无数个问号：这个词是什么意思？在这里又表示什么？而它与孔庙又有什么关系？……就在这时，旁边的导游开口了：“这个词的意思是一堵宫墙有数万个人堆砌起来那样高，在这里比喻孔子的学问十分渊博。在这个词中还有一个小故事：有人说子贡（孔子的徒弟）的学问已经比孔子高了，而子贡却反对：‘我的学问只到了一个人的肩膀，而老师的学问有许多人堆砌起来那么高。’”听完导游的讲解，我恍然大悟，原来这短短四个字的含义这么深啊！我同时也感受到了孔子知识的渊博，不愧是孔圣人！<br>
+我也在后面体会到孔子及孔家的地位都十分的高。在明、清朝的时候，孔家的地位已经到了顶峰，每位皇帝都会赞扬孔子的高尚品德，还为孔家修建了许多建筑。到现在为止，孔家的后花园比北京故宫的后花园都大五十亩！虽说如此，但孔夫子在世的时候都十分清贫。因此，我再一次感受到了孔子的伟大。<br>
+这是一段最难忘的回忆。我永远不会忘记：2020年1月，我曾与孔夫子相聚。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有意思的游戏]]></title>
+        <id>https://bbyjh.github.io/post/有意思的游戏/</id>
+        <link href="https://bbyjh.github.io/post/有意思的游戏/">
+        </link>
+        <updated>2021-02-04T12:56:51.000Z</updated>
+        <content type="html"><![CDATA[<p>这次，老师组织了一次有意思的游戏——夹乒乓球。游戏分两组进行，6人一组，给每个人发一双筷子。老师先把乒乓球给第一个人，第一个人夹起球后给第二个人，这样依次传下去，最先传完的一组获胜。规则宣布完毕后，参赛选手们个个摩拳擦掌，跃跃欲试，已经等不及了。</p>
+<p>“预备……开始！”随着老师的一声令下，两组的组员们都紧张了起来，专心致志地等待着前面的球。只见第一组前面都进行得很顺利，传到小周同学时，球“啪”的一声掉到了地上。组员们都慌了，于是急忙去捡球，生怕第二组超越了他们的进度。尤其是小周同学，他眉头紧皱绷着脸，额头上现出几颗亮晶晶的汗珠，捡球时恨不得趴到地上。他捡起了球，想把它夹住，可是世事难料，他夹了好几次都没夹起来。“加油！你可以的！”旁边传来组员的鼓励声，小周忽然振作了起来，仿佛在说：我一定可以！这一次，他很快就夹起了乒乓球。接着，第一组的同学继续往后传，而此时，第二组只完成了第一组的一半。第一组传到最后一位同学了，前面的同学小心翼翼地夹着，后面的同学小心翼翼地接着，两位同学的手都有些颤抖，生怕球掉地上。同学们都探着头静静等着第一组取得胜利，空气仿佛凝固了，没有人大声说话，也没有人窃窃私语，旁边写作业的同学也停下了笔。“不要犹豫！夹吧！夹住了就胜利了！”小周不禁大喊道。听到这声音，后面的同学也不再犹豫，干脆地夹了过去……</p>
+<p>“胜利了！胜利了！”就在那时，最后一位同学成功接住了球，不禁大声欢呼。全场顿时沸腾了，第一组终于胜利了。</p>
+<p>第一组的胜利，完全来自他们的努力，是他们的认真铸就了他们的辉煌，是他们的团结使其绽放出胜利的火花！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有你，真好]]></title>
+        <id>https://bbyjh.github.io/post/有你，真好/</id>
+        <link href="https://bbyjh.github.io/post/有你，真好/">
+        </link>
+        <updated>2021-02-04T12:55:44.000Z</updated>
+        <content type="html"><![CDATA[<p>那是一次不同寻常的邂逅。那天，天气如此明朗，空气也格外清新。从那以后，我的心中就充满了阳光，就像那天的阳光一样灿烂，那样美好。</p>
+<p>一次写数学小论文，我十分懊恼，好不容易费了半天时间挤牙膏似的挤出了一篇只有四百字的文章，老师却看了一眼就打回来了。那时我近乎绝望，北风呼呼地吹着，我的心也被冻结了一样，泣不成声。就在这时，你悄悄地走了过来，用一个充满力量的眼神看了我一眼，接着又悄悄地走了。但是，你知道吗？那个眼神，不知道给予了我多少鼓励，它使我振作了起来，提笔半小时就完成了一篇文章。这篇文章被评为了优秀。</p>
+<p>而你对我的鼓励，还不止于此……</p>
+<p>又是学校举行了运动会的日子，我报名了200米跑步项目。紧张激烈的比赛开始了，我大步走向跑道，心里又激动又紧张，我两腿一前一后，身子微微前俯，像运动员一样摆好架势。“预备……开始！”我像炮弹似的冲了出去，首先取得决定性的优势，健步如飞，神采飞扬；而对手也不甘示弱，疾驰如箭，快似流星。比赛已经进入了白热化状态，我们两人跑得不分上下，也都不甘示弱。此时，你并没有说什么，只是微笑了一下。但是，你知道吗？你的微笑像我人生道路中的一朵花，绽放得无比艳丽。带着你的微笑，带着我的决心，我跑得更快了，最终得到了胜利。那一刻，你依然没有说什么，又是一个微笑……</p>
+<p>我的朋友，谢谢你，是你的鼓励照进了我冰冷的心房，是你的安慰让我充满了力量。你为我所做的一切，陪伴我度过了一切痛苦的时光。</p>
+<p>啊，我的朋友，有你，真好！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小区楼道管理倡议书]]></title>
+        <id>https://bbyjh.github.io/post/小区楼道管理倡议书/</id>
+        <link href="https://bbyjh.github.io/post/小区楼道管理倡议书/">
+        </link>
+        <updated>2021-02-04T12:52:33.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>居民朋友们：</strong></p>
+<p>大家好！每次回家的路上，在楼道中我能看到很多车乱停乱放，一辆车占三个位置；卫生也不太好，有时在地上的玻璃渣就留在楼梯上，没有及时处理，而且墙上时常能看到乱七八糟的涂鸦；有的居民养狗，就让狗在楼道里如厕，粪便也不及时处理。为了增强小区的楼道管理，让我们一起努力，尽量做到以下几点：</p>
+<ol>
+<li>
+<p>小区中楼道车位都有明确的划分，停车时，不要乱停，尽量摆放整齐，也不要一个车占几个位置，为其他居民带来不便；</p>
+</li>
+<li>
+<p>不要在墙上乱涂乱画，保持墙壁的清洁；</p>
+</li>
+<li>
+<p>不乱扔烟头、食品袋、瓜子壳等垃圾，不随地吐痰；</p>
+</li>
+<li>
+<p>养宠物的居民要管理好自己的宠物，不让它在楼道内如厕或给其他居民带来危险；</p>
+</li>
+<li>
+<p>楼道本来就很窄，不要在楼道内堆放杂物，将楼道堵死；</p>
+</li>
+<li>
+<p>在进楼以后，要随手关门，这样夏天不会蚊虫叮咬，冬天不会冰冷刺骨；</p>
+</li>
+<li>
+<p>每家每户都要准备一个扫帚，按时清理门口的垃圾灰尘，防止发生意外。</p>
+</li>
+</ol>
+<p>管理楼道，从我做起。改善我们的居住环境是我们的愿望，更是我们的义务。让我们行动起来，携手保持楼道清洁，创造美好家园！</p>
+<p>​                                                                                                                                                                 姚景豪</p>
+<p>​                                                                                                                                                 2020年12月3日</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[闲不住的奶奶]]></title>
+        <id>https://bbyjh.github.io/post/闲不住的奶奶/</id>
+        <link href="https://bbyjh.github.io/post/闲不住的奶奶/">
+        </link>
+        <updated>2021-02-04T12:50:24.000Z</updated>
+        <content type="html"><![CDATA[<p>我的奶奶十分勤快，每天都闲不住，一年三百六十五天，没有一小时是闲着的。</p>
+<p>清晨，奶奶早早地起来，快速地刷牙洗脸，接着开始锻炼身体。“一二三四五六七八，二二三四五六七八，三二……”她围着客厅的茶几小跑着，呼吸均匀，两手前后稍稍摆动，跑得十分标准。过了一会儿，奶奶又开始练太极拳，柔中带刚，虽没有到出神入化的地步，倒有几副架势。<br>
+早上，该吃早饭了，奶奶开始做饭。她将锅接上水，并从架子上拿出西红柿，烧水的同时切好西红柿，接着熟练地将西红柿放进锅里，进行第一次翻炒。又拿出面条，将面条放进锅里，放些盐和葱，再进行第二次翻炒，短短十分钟就做成了美味的西红柿面。那时，奶奶脸上现出了几颗晶莹的汗珠。她捏了一把汗，满足地看着锅里的面条，似乎对自己做的面条十分满意。<br>
+吃完面后，你可能会以为奶奶会歇息一会儿，或看一会儿电视。那么你错了，奶奶可没这么轻易“败下阵来”，瞧，她又拿起了针和线，开始织毛衣了。只见她左一针，右一针，每一针都让你担心扎到手指，每一针却又缝得恰到好处。她越织越来劲，彻底地陶醉在其中。于是仅一根针，几团线，就创造出了一件又一件的漂亮的衣服。织完衣服，她又开始织一幅已经织了一半的《万马奔腾》。她还有宏伟设想，要靠她的双手织出更多的画在家里做装饰，甚至对外卖出。<br>
+到了中午，奶奶又要开始做饭了……<br>
+这就是我的奶奶，一个闲不住的奶奶。我想，这样闲不住的生活一定会很充实，美好……</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[下棋让生活更美好]]></title>
+        <id>https://bbyjh.github.io/post/下棋让生活更美好/</id>
+        <link href="https://bbyjh.github.io/post/下棋让生活更美好/">
+        </link>
+        <updated>2021-02-04T12:48:52.000Z</updated>
+        <content type="html"><![CDATA[<p>记得那天，是数学成绩公布的日子。发试卷时，老师读到：“徐嘉一，100分！姚景豪，80分，严重退步！”</p>
+<p>刚念到成绩时，我的大脑一片空白。顿时，我的脑袋就像被炸了一样，眼泪如泉水涌了出来，80分的考卷如一座山压着我，令我无法呼吸。<br>
+回到家里，我头也不抬地写完了作业，泪水出现在每个角落。我绝望了，这是我人生中第一次遇到挫折。我用已经僵硬的手打开电脑，想要下盘棋转移注意力。我一开始只是漫无目的地挪动棋子，两眼失神，腿一直颤抖着，苍白的脸上没有一丝光泽，心中依然是无尽的悲伤。过了一会儿，我仿佛被赋予了生命，脑袋开始运转了起来，身体也能动了，浑身都有了力气，心里不再那么难受了。到了后来，我已经完全进入状态，将全身心投入到棋中，一点点悲伤也没有了。这小小的棋盘和棋子，仿佛有魔力一样，将我的灵魂带到了棋的世界里，快乐地漫游在其中。<br>
+在下棋的过程中，我受益良多：在这场游戏中，暂时的失利不代表永恒的失败，在比赛的任何时刻，你都有可能因为一步棋而失利，但是你也有机会再次夺回先机。考试也是如此，一次考试说明不了什么，人生的路很长，会遇到无数次考试，只要总体是好的，就是胜利了！<br>
+下完棋以后，我悲伤全无，还有一股隐形的力量鼓励我前行。短短的一盘棋使我得到了许多，这时的我已经不是一刻钟之前的我了。<br>
+棋，能令人投入进去，还能缓解情绪，更能告诉我们使人一生受用的道理！<br>
+我想，下棋，让生活更美好！</p>
 ]]></content>
     </entry>
 </feed>
